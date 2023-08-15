@@ -11,7 +11,7 @@
 <br>
 <h1>Back-End</h1>
 <br>
-<a href="https://github.com/Everton1766/project-react-hanburgueria-back-end" target="_blank" >Back end da aplicação</a>
+<a href="https://github.com/Everton1766/project-react-hanburgueria-back-end">Back end da aplicação</a>
 <br>
 <br>
 <br>  
